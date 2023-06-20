@@ -57,3 +57,37 @@ p {
     font-size: 20px;
     color: rgb(141, 10, 10);
 }
+.first__project{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.first {
+    display: flex;
+    justify-content: center;
+    margin: 25px 0 ;
+}
+.el {
+    display: flex;
+    flex-wrap: wrap; 
+}
+.button {
+    width: 150px;
+    height: 30px;
+    background-color:rgb(244, 177, 96);
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 25px;
+    
+}
+.button:hover {
+    background-color:rgb(246, 204, 152);
+}
+.elements {
+    display: flex;
+}
+img {
+    display: flex;
+    width: 50px;
+}

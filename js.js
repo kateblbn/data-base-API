@@ -11,7 +11,6 @@ fetch(urlApi)
 
 
 function getUsers(json) {
-    console.log(json);
     json.forEach( el => { 
         let template = `
         <div class="base__people">
