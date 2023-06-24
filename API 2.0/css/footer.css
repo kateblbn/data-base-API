@@ -1,0 +1,10 @@
+.footer {
+    display: flex;
+}
+.one-line {
+    margin: 15px;
+    display: flex;
+}
+img {
+    width: 50px;
+}

@@ -1,0 +1,7 @@
+@import "./location.css";
+@import "./footer.css";
+
+body, html, p {
+    margin: 0;
+    padding: 0;
+}
